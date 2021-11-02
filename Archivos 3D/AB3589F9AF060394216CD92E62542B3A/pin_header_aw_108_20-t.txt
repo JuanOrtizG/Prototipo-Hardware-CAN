@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16062010-084438";"";
+"REFERENCE";"AW 108/20-T";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.2.6";"";
+"TraceParts.InstanceId";"10-16062010-084438ETLBNB4UNVK2NV1X02KCWL5A";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Pin header, pitch 2.54mm, straight, single row, 02 - 20 contacts";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"DESIGN";"Pin header, pitch 2.54mm, straight, single row, 20 contacts, plating : Ni, Au, pin length = 12.4mm (A= 7.9, B=3.0)";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
